@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\bin\Debug\net8.0-windows\App4Habilitação.exe
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\bin\Debug\net8.0-windows\App4Habilitação.deps.json
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\bin\Debug\net8.0-windows\App4Habilitação.runtimeconfig.json
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\bin\Debug\net8.0-windows\App4Habilitação.dll
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\bin\Debug\net8.0-windows\App4Habilitação.pdb
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.Form1.resources
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.dll
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\refint\App4Habilitação.dll
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.pdb
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\App4Habilitação.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\App4Habilitação\App4Habilitação\obj\Debug\net8.0-windows\ref\App4Habilitação.dll
